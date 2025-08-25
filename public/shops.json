@@ -1,0 +1,17 @@
+[
+    {
+        "shop_id": "s1",
+        "shop_name": "Shop Alpha",
+        "region": "US"
+    },
+    {
+        "shop_id": "s2",
+        "shop_name": "Shop Beta",
+        "region": "US"
+    },
+    {
+        "shop_id": "s3",
+        "shop_name": "Shop Gamma",
+        "region": "US"
+    }
+]

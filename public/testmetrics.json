@@ -1,0 +1,58 @@
+[
+    {
+        "shop_id": "s4",
+        "date": "2025-07-20",
+        "gmv_usd": 1200,
+        "followers": 400,
+        "ctor": 0.12
+    },
+    {
+        "shop_id": "s5",
+        "date": "2025-07-21",
+        "gmv_usd": 900,
+        "followers": 415,
+        "ctor": 0.09
+    },
+    {
+        "shop_id": "s6",
+        "date": "2025-07-20",
+        "gmv_usd": 600,
+        "followers": 300,
+        "ctor": 0.15
+    },
+    {
+        "shop_id": "s7",
+        "date": "2025-07-20",
+        "gmv_usd": 1500,
+        "followers": 500,
+        "ctor": 0.11
+    },
+    {
+        "shop_id": "s7",
+        "date": "2025-07-22",
+        "gmv_usd": 1500,
+        "followers": 500,
+        "ctor": 0.11
+    },
+    {
+        "shop_id": "s7",
+        "date": "2025-07-23",
+        "gmv_usd": 1500,
+        "followers": 500,
+        "ctor": 0.11
+    },
+    {
+        "shop_id": "s7",
+        "date": "2025-07-24",
+        "gmv_usd": 1500,
+        "followers": 500,
+        "ctor": 0.11
+    },
+    {
+        "shop_id": "s7",
+        "date": "2025-07-25",
+        "gmv_usd": 1500,
+        "followers": 500,
+        "ctor": 0.11
+    }
+]

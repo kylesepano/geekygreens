@@ -1,0 +1,23 @@
+[
+    {
+        "shop_id": "s4",
+        "shop_name": "Shop 4",
+        "region": "US"
+    },
+    {
+        "shop_id": "s5",
+        "shop_name": "Shop 5",
+        "region": "US"
+    },
+    {
+        "shop_id": "s6",
+        "shop_name": "Shop 6",
+        "region": "US"
+    }
+    ,
+    {
+        "shop_id": "s7",
+        "shop_name": "Shop 7",
+        "region": "US"
+    }
+]
